@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Mike\OneDrive - Brookhaven National Laboratory\Documents\ACMI-II\ACMI-II Chassis Wiring\ACMI-II Chassis Wiring.kicad_sch</source>
+    <date>7/8/2025 8:55:28 PM</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ACMI-II Chassis Wiring Diagram</title>
+        <company/>
+        <rev>-</rev>
+        <date>2025-07-07</date>
+        <source>ACMI-II Chassis Wiring.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>SCHURTER KMF1.1211.11</value>
+      <footprint>DD21.0121.1111:SCHURTER_DD21.0121.1111</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=eda</field>
+        <field name="Description">
+C14 Right Angle Through Hole IEC Conn Plug,Solder Term,Rated At 10A,250V ac | Schurter DD21.0121.1111
+</field>
+        <field name="MANUFACTURER">Schurter Inc.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">32.3 mm</field>
+        <field name="MF">Schurter Inc.</field>
+        <field name="MP">DD21.0121.1111</field>
+        <field name="PARTREV">14.08.2020</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=262444&amp;manufacturer=Schurter Inc.&amp;part_name=DD21.0121.1111&amp;search_term=None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="New_Library" part="IEC-Inlet" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="32.3 mm"/>
+      <property name="MF" value="Schurter Inc."/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="14.08.2020"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="DD21.0121.1111"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=262444&amp;manufacturer=Schurter Inc.&amp;part_name=DD21.0121.1111&amp;search_term=None"/>
+      <property name="Description" value="&#xA;C14 Right Angle Through Hole IEC Conn Plug,Solder Term,Rated At 10A,250V ac | Schurter DD21.0121.1111&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Schurter Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab2b72b7-425e-4f54-8b33-c379986d5fc8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PHOENIX 3002967
+</value>
+      <libsource lib="" part="Screw_Terminal_01x06_1" description="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09265a93-497b-4ebd-9c33-ba51182dd348</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>LT-EL-IS-BI-PPS-0200-31 REV-1</value>
+      <fields>
+        <field name="Field4">PSU PCB</field>
+      </fields>
+      <libsource lib="New_Library" part="PSU_PCB" description=""/>
+      <property name="Field4" value="PSU PCB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fec73120-772a-4b97-a5c0-9977f4c2f267</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>PHOENIX 3002936</value>
+      <libsource lib="" part="Screw_Terminal_01x06_1" description="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd2bdd07-00b0-4b87-99b9-9134f78f4193</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>QUALTEK FMA1-06025WBHW12
+</value>
+      <libsource lib="Motor" part="Fan" description="Fan"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Fan"/>
+      <property name="ki_keywords" value="Fan Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e90eaa0-d9c4-479d-aed8-43a914a83d1a</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>QUALTEK FMA1-06025WBHW12
+</value>
+      <libsource lib="Motor" part="Fan" description="Fan"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Fan"/>
+      <property name="ki_keywords" value="Fan Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8022cc54-ec57-4cd8-84fc-74b140d4605a</tstamps>
+    </comp>
+    <comp ref="N1">
+      <value>GND STUD -- #10-32x1 1/2" 18-8 SS</value>
+      <libsource lib="Mechanical" part="Housing_Pad" description="Housing with connection pin"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Housing with connection pin"/>
+      <property name="ki_keywords" value="housing enclosure shield"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8a333d2-4390-44bd-b01f-112e66bfe369</tstamps>
+    </comp>
+    <comp ref="N2">
+      <value>GND NUT 10-32 FLANGE 18-8 SS</value>
+      <libsource lib="Mechanical" part="Housing" description="Housing"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Housing"/>
+      <property name="ki_keywords" value="housing enclosure"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2959f412-19dc-4723-8cf7-f6301644a09a</tstamps>
+    </comp>
+    <comp ref="N3">
+      <value>FUSE, 5x20mm 250VAC 3A SLOW BLOW</value>
+      <libsource lib="Mechanical" part="Housing" description="Housing"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Housing"/>
+      <property name="ki_keywords" value="housing enclosure"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8b6da38-08f7-4108-84f4-9d25a44df035</tstamps>
+    </comp>
+    <comp ref="N4">
+      <value>FUSE DRAWER 4301.1401</value>
+      <libsource lib="Mechanical" part="Housing" description="Housing"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACMI-II Chassis Wiring.kicad_sch"/>
+      <property name="ki_description" value="Housing"/>
+      <property name="ki_keywords" value="housing enclosure"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c16f10d-03c3-4c98-9ddb-01d93c0aba5c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Screw_Terminal_01x06_1">
+      <description>Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">PHOENIX 3002967
+</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Housing">
+      <description>Housing</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Enclosure*</fp>
+        <fp>Housing*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">N</field>
+        <field name="Value">Housing</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="Housing_Pad">
+      <description>Housing with connection pin</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">N</field>
+        <field name="Value">Housing_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Fan">
+      <description>Fan</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Fan</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="IEC-Inlet">
+      <fields>
+        <field name="Reference">J8</field>
+        <field name="Value">DD12.9111.111</field>
+        <field name="Footprint">DD21.0121.1111:SCHURTER_DD21.0121.1111</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">32.3 mm</field>
+        <field name="MF">Schurter Inc.</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">14.08.2020</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DD21.0121.1111/Schurter+Inc./view-part/?ref=snap</field>
+        <field name="MP">DD21.0121.1111</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=262444&amp;manufacturer=Schurter Inc.&amp;part_name=DD21.0121.1111&amp;search_term=None</field>
+        <field name="Description">
+C14 Right Angle Through Hole IEC Conn Plug,Solder Term,Rated At 10A,250V ac | Schurter DD21.0121.1111
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Schurter Inc.</field>
+      </fields>
+      <pins>
+        <pin num="" name="" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="PSU_PCB">
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">LT-EL-IS-BI-PPS-0200-31 REV-1</field>
+        <field name="Datasheet">~</field>
+        <field name="Field4">PSU PCB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="HOT" type="passive"/>
+        <pin num="2" name="NEUT" type="passive"/>
+        <pin num="3" name="PE" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="New_Library">
+      <uri>C:\Users\Mike\OneDrive - Brookhaven National Laboratory\Documents\ACMI-II\ACMI-II Chassis Wiring/New_Library.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDPWR">
+      <node ref="J1" pin="" pintype="power_in"/>
+      <node ref="J3" pin="3" pinfunction="PE" pintype="passive"/>
+      <node ref="N1" pin="1" pinfunction="PAD" pintype="input"/>
+    </net>
+    <net code="2" name="Net-(J2-Pin_1)">
+      <node ref="J1" pin="" pintype="power_in"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(J2-Pin_4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="HOT" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J2-Pin_5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M2" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J2-Pin_6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M1" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J3-NEUT)">
+      <node ref="J3" pin="2" pinfunction="NEUT" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J4-Pin_1)">
+      <node ref="J1" pin="" pintype="power_in"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J4-Pin_5)">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="M2" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J4-Pin_6)">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="M1" pin="2" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(J2-Pin_3-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(J4-Pin_2-Pad2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(J4-Pin_3-Pad3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

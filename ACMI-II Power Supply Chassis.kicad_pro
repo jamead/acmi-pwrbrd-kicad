@@ -400,7 +400,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "PLDF.kicad_wks",
+    "page_layout_descr_file": "kicad-embed://NSLS-II.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -418,5 +418,35 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "CEE_CME": "NA",
+    "CEE_CME_DATE": "NA",
+    "CHECKED_BY": "",
+    "CHECKED_BY_DATE": "",
+    "DEPARTMENT_CHAIRMAN": "NA",
+    "DEPARTMENT_CHAIRMAN_DATE": "NA",
+    "DESIGN_APPROVAL": "",
+    "DESIGN_APPROVAL_DATE": "",
+    "DIVISION_HEAD": "NA",
+    "DIVISION_HEAD_DATE": "NA",
+    "DRAWING_NUMBER": "TBD",
+    "DRAWN_BY": "M. Capotosto",
+    "DRAWN_BY_DATE": "2-28-2026",
+    "ENG_PHY_APPROVAL": "J. Mead",
+    "ENG_PHY_APPROVAL_DATE": "2-28-2026",
+    "GROUP_LEADER": "D. Padrazo",
+    "GROUP_LEADER_DATE": "",
+    "INITIAL_RELEASE_DATE": "2-28-2026",
+    "QA": "NA",
+    "QA_CATEGORY": "A3",
+    "QA_DATE": "NA",
+    "REVB_ECN_NO": "",
+    "REVB_RELEASE_DATE": "",
+    "SAFETY_RSC": "NA",
+    "SAFETY_RSC_DATE": "NA",
+    "SCALE": "N.A.",
+    "TITLE_LINE2": "",
+    "TITLE_LINE3": "",
+    "WEIGHT": "N.A."
+  }
 }

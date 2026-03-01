@@ -507,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -710,6 +710,8 @@
     "SAFETY_RSC": "NA",
     "SAFETY_RSC_DATE": "NA",
     "SCALE": "N.A.",
+    "TITLE_LINE2": "",
+    "TITLE_LINE3": "",
     "WEIGHT": "N.A."
   }
 }

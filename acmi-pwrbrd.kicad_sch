@@ -18120,7 +18120,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e75ff19a-c1ea-4900-b7ee-df76d3b13d67")
 		(property "Reference" "#PWR065"
 			(at 129.54 121.92 0)
@@ -18133,14 +18132,15 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
-			(at 129.54 113.03 0)
+		(property "Value" "+12VB"
+			(at 125.984 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
